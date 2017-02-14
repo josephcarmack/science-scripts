@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# this is an edit by JC
+# this
 
 SCRIPT_DIR=`echo $PWD`
 INSTALL_DIR=`echo $HOME/.bin`
